@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Layefa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tariwei&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Intro & Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -170,4 +170,5 @@ I don't just write code; I engineer solutions that are robust, secure, and blazi
 
 
 </div>
+
 
