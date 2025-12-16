@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=300&section=header&text=Tariwei&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Future%20of%20AI%20%26%20Systems&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Layefa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Intro & Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -27,7 +27,9 @@
 
 > *"Building foundational technology that moves humanity forward."*
 
-I am a systems engineer passionate about bridging the gap between hardware and software. My work focuses on **AI kernel optimization**, **scalable architecture**, and **high-performance computing**. I don't just write code; I engineer solutions that are robust, secure, and blazingly fast.
+I am an ai & systems engineer passionate about bridging the gap between hardware and software. 
+My work focuses on **AI kernel optimization**, **scalable architecture**, and **high-performance computing**. 
+I don't just write code; I engineer solutions that are robust, secure, and blazingly fast.
 
 <br/>
 
@@ -145,13 +147,13 @@ I am a systems engineer passionate about bridging the gap between hardware and s
 <a href="https://github.com/dbisina" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/dbisina" target="_blank">
+<a href="https://linkedin.com/in/danielbisina" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/dbisina" target="_blank">
+<a href="https://twitter.com/danielbisina" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="mailto:tariwei@example.com" target="_blank">
+<a href="mailto:danbis664@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -162,9 +164,10 @@ I am a systems engineer passionate about bridging the gap between hardware and s
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 **⭐️ From [Tariwei](https://github.com/dbisina) | Building The Future, One Commit At A Time**
 
 
 </div>
+
