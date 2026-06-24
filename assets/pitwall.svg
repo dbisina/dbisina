@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360">
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="0.5" y2="1">
+    <stop offset="0" stop-color="#0E1736"/><stop offset="1" stop-color="#090E26"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E10600"/><stop offset="1" stop-color="#FFC400"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#27315e"/><stop offset="1" stop-color="#27315e" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="redfade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#E10600"/><stop offset="1" stop-color="#E10600" stop-opacity="0"/>
+  </linearGradient>
+  
+</defs>
+<rect width="1000" height="360" rx="14" fill="#05081A"/><rect width="1000" height="360" rx="14" fill="url(#card)" stroke="#27315e"/>
+<rect x="0" y="14" width="34" height="26" rx="4" fill="#E10600"/>
+<text x="17" y="32" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="14" font-weight="700" fill="#05081A" text-anchor="middle">S5</text>
+<text x="48" y="33" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="1.5" fill="#E9EDFB">PIT WALL</text>
+<text x="156" y="33" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#5C6790">/ Objectives This Season</text>
+<rect x="352" y="26" width="640" height="1.5" fill="url(#fade)"/>
+<rect x="1" y="44" width="998" height="28" fill="#E10600" fill-opacity="0.06"/>
+<text x="20" y="62" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="11" letter-spacing="2" fill="#6B76A6">PIT WALL  //  RACE STRATEGY</text>
+<text x="22" y="96" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" font-weight="700" fill="#E10600">01</text>
+<text x="60" y="96" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#E9EDFB">AI kernel generation &amp; optimization <tspan fill="#6B76A6" font-size="13">(U-HOP vision)</tspan></text>
+<rect x="22" y="108" width="956" height="1" fill="#27315e" fill-opacity="0.5"/>
+<text x="22" y="132" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" font-weight="700" fill="#E10600">02</text>
+<text x="60" y="132" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#E9EDFB">Scalable backend &amp; infrastructure systems</text>
+<rect x="22" y="144" width="956" height="1" fill="#27315e" fill-opacity="0.5"/>
+<text x="22" y="168" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" font-weight="700" fill="#E10600">03</text>
+<text x="60" y="168" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#E9EDFB">Full-stack platforms with real-world impact</text>
+<rect x="22" y="180" width="956" height="1" fill="#27315e" fill-opacity="0.5"/>
+<text x="22" y="204" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" font-weight="700" fill="#E10600">04</text>
+<text x="60" y="204" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#E9EDFB">Bridging hardware and software intelligence</text>
+<rect x="22" y="216" width="956" height="1" fill="#27315e" fill-opacity="0.5"/>
+<text x="22" y="240" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" font-weight="700" fill="#E10600">05</text>
+<text x="60" y="240" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#E9EDFB">Performance optimization &amp; security hardening</text>
+<rect x="14" y="300" width="972" height="48" rx="10" fill="#0a0f26" stroke="#27315e"/>
+<rect x="14" y="300" width="4" height="48" rx="2" fill="url(#accent)"/>
+<text x="500" y="326" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" font-weight="700" fill="#fff" text-anchor="middle">"The best way to predict the future is to invent it."</text>
+<text x="500" y="346" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="11" letter-spacing="2" fill="#FFC400" text-anchor="middle">— ALAN KAY</text>
+</svg>

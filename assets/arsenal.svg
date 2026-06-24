@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="0.5" y2="1">
+    <stop offset="0" stop-color="#0E1736"/><stop offset="1" stop-color="#090E26"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E10600"/><stop offset="1" stop-color="#FFC400"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#27315e"/><stop offset="1" stop-color="#27315e" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="redfade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#E10600"/><stop offset="1" stop-color="#E10600" stop-opacity="0"/>
+  </linearGradient>
+  
+</defs>
+<rect width="1000" height="300" rx="14" fill="#05081A"/><rect width="1000" height="300" rx="14" fill="url(#card)" stroke="#27315e"/>
+<rect x="0" y="14" width="34" height="26" rx="4" fill="#E10600"/>
+<text x="17" y="32" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="14" font-weight="700" fill="#05081A" text-anchor="middle">S3</text>
+<text x="48" y="33" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="1.5" fill="#E9EDFB">ARSENAL</text>
+<text x="143" y="33" font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#5C6790">/ Tech Stack</text>
+<rect x="243" y="26" width="749" height="1.5" fill="url(#fade)"/>
+<text x="20" y="92" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="10" letter-spacing="2.5" fill="#6B76A6">LANGUAGES</text>
+<g transform="translate(20,102)"><rect width="86" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#FFD43B"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">Python</text></g>
+<g transform="translate(116.4,102)"><rect width="95" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#659AD2"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">C / C++</text></g>
+<g transform="translate(221.20000000000002,102)"><rect width="70" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#DEA584"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">Rust</text></g>
+<g transform="translate(300.8,102)"><rect width="70" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#76B900"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">CUDA</text></g>
+<g transform="translate(380.4,102)"><rect width="120" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#3178C6"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">TypeScript</text></g>
+<text x="20" y="166" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="10" letter-spacing="2.5" fill="#6B76A6">AI &amp; SYSTEMS</text>
+<g transform="translate(20,176)"><rect width="95" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#EE4C2C"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">PyTorch</text></g>
+<g transform="translate(124.80000000000001,176)"><rect width="86" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#8A6BF2"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">Triton</text></g>
+<g transform="translate(221.20000000000002,176)"><rect width="120" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#FF6F00"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">TensorFlow</text></g>
+<g transform="translate(351.20000000000005,176)"><rect width="70" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#C0C7E0"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">ONNX</text></g>
+<text x="20" y="240" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="10" letter-spacing="2.5" fill="#6B76A6">INFRA &amp; WEB</text>
+<g transform="translate(20,250)"><rect width="78" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#FCC624"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">Linux</text></g>
+<g transform="translate(108.0,250)"><rect width="86" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#2496ED"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">Docker</text></g>
+<g transform="translate(204.4,250)"><rect width="120" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#326CE5"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">Kubernetes</text></g>
+<g transform="translate(334.4,250)"><rect width="61" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#FF9900"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">AWS</text></g>
+<g transform="translate(405.59999999999997,250)"><rect width="78" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#61DAFB"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">React</text></g>
+<g transform="translate(493.59999999999997,250)"><rect width="78" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#DC382D"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">Redis</text></g>
+<g transform="translate(581.5999999999999,250)"><rect width="120" height="30" rx="6" fill="#0B1330" stroke="#27315e"/><rect x="12" y="11" width="8" height="8" rx="2" fill="#336791"/><text x="28" y="20" font-family="'Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="13" fill="#C8D0EE">PostgreSQL</text></g>
+</svg>
